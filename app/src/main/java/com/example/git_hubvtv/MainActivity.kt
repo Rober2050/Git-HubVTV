@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         var auto1= Vehiculo()
         auto1.marca="Peugeot"
+        auto1.patente="ATT123"
 
     }
 
